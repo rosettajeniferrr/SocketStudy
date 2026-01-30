@@ -102,7 +102,7 @@ s.close()
 
 ## Output
 
-<img width="1478" height="238" alt="OUTPUT" src="https://github.com/user-attachments/assets/d8617b19-7b5f-4902-b1ae-b4a9f46b45ac" />
+<img width="1480" height="242" alt="image" src="https://github.com/user-attachments/assets/97b08384-0a48-4ea7-b4f2-b8c10ee4c1a8" />
 
 
 
