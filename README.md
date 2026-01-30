@@ -54,15 +54,15 @@ Socket programming finds applications in various domains, including web developm
 5.	RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
    
 ## ALGORITHM:
-1.Start the experiment.
-2.Study the concept of socket programming.
-3.Identify the types of sockets (TCP and UDP).
-4.Understand the client–server model.
-5.Study server operations: create, bind, listen, accept, send, and receive data.
-6.Study client operations: create socket, connect, send, and receive data.
-7.Understand the use of TCP/IP protocol in communication.
-8.Observe the applications of socket programming.
-9.Stop the experiment.
+1.  Start the experiment.
+2.  Study the concept of socket programming.
+3.  Identify the types of sockets (TCP and UDP).
+4.  Understand the client–server model.
+5.  Study server operations: create, bind, listen, accept, send, and receive data.
+6.  Study client operations: create socket, connect, send, and receive data.
+7.  Understand the use of TCP/IP protocol in communication.
+8.  Observe the applications of socket programming.
+9.  Stop the experiment.
 
 ## PROGRAM:
 
