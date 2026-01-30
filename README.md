@@ -53,7 +53,7 @@ Socket programming finds applications in various domains, including web developm
 4.	Networked Games: Online multiplayer games rely on socket programming to facilitate communication between game clients and servers.
 5.	RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
    
-##ALGORITHM:
+## ALGORITHM:
 1.Start the experiment.
 2.Study the concept of socket programming.
 3.Identify the types of sockets (TCP and UDP).
